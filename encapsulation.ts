@@ -13,4 +13,3 @@ export class Time {
 
 const time = new Time(12, 15, 0)
 console.log(time)
-console.log(time.hour)
